@@ -10,6 +10,7 @@
 6. UBS-B数据线（自费）；
 ## **二、机械结构与电控**
 具体组装、接线教程详见[MeArmV1开源地址](https://github.com/MeArm/MeArm/tree/master/v1)
+
 不用再买面包板供电，直接从UNO的引脚上飞杜邦线就行：）；
 ## **三、程序设计**
 1. 以下提到的所有程序我已放在"program_to_run"文件夹内；
